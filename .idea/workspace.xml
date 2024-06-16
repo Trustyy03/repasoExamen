@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eee6fd3f-4b1a-45be-98b3-6e4a3896515c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pruebaExamen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Archivos/ArchivosDirectorioPedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Archivos/GestionArchivosActuales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjDeGPT/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjDeGPT/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjDeGPT/Mamifero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjDeGPT/Tigre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FichBinConFormato/Jugador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FichBinConFormato/ListaJugadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JuegoRPG/Comercializable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JuegoRPG/Inventariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JuegoRPG/Inventario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JuegoRPG/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JuegoRPG/Material.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JuegoRPG/Materials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JuegoRPG/RoleCharacter.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2hxL7BTLzmQWeJXnFKD4DH4ZO7n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArchivosDirectorioPedido.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GestionArchivosActuales.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListaJugadores.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="EjDeGPT" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Christian\IdeaProjects\pruebaExamen\src" />
+      <recent name="C:\Users\Christian\IdeaProjects\pruebaExamen\src\Archivos" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ListaJugadores">
+    <configuration name="ArchivosDirectorioPedido" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Archivos.ArchivosDirectorioPedido" />
+      <module name="pruebaExamen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Archivos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GestionArchivosActuales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Archivos.GestionArchivosActuales" />
+      <module name="pruebaExamen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Archivos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListaJugadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FichBinConFormato.ListaJugadores" />
+      <module name="pruebaExamen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FichBinConFormato.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JuegoRPG.Main" />
+      <module name="pruebaExamen" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ListaJugadores" />
+        <item itemvalue="Application.ArchivosDirectorioPedido" />
+        <item itemvalue="Application.GestionArchivosActuales" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.22-semeru-11.0.22-f644763e9732-d90ddd3d" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-e1d2075fd9a7-b4911678" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eee6fd3f-4b1a-45be-98b3-6e4a3896515c" name="Changes" comment="" />
+      <created>1718530613941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718530613941</updated>
+    </task>
+    <servers />
+  </component>
+</project>
